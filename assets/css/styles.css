@@ -115,7 +115,7 @@ a {
     line-height: 1.19;
     color: #000336;
 }
-.hero.desc{
+.hero .desc{
     margin-top: 30px;
     font-weight: 400;
     font-size: 1.8rem;
